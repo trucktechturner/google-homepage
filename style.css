@@ -1,0 +1,101 @@
+a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.left{
+    font-family: "Areial" , sans-serif;
+    font-size: 13px;
+    
+    
+}
+
+.main-logo {
+    text-align: center;
+    margin: auto;
+    
+}
+
+.search {
+    text-align: center;
+    padding-top: 6px;
+    padding-left: 12px;
+    
+    
+}
+
+.search input{
+    border-radius: 25px;
+  line-height: 20px;
+  padding-left: 20px;
+  font-size: 12px;
+  height: 46px;
+  border: 1px #ddd solid;
+}
+
+.buttons {
+    text-align: center; 
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 2px 9px;
+    border-radius: 4px;
+    
+    
+}
+
+.buttons input{
+    color: #777;
+    background-color: #f2f2f2;
+    border-style: none;
+}
+
+.buttons input:hover{
+    border: 5px #bbb solid;
+}
+
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 30px;
+    background-color: #f2f2f2;
+    border-top: 1px #e4e4e4 solid;
+}
+
+.bottom li {
+  float: left;
+}
+
+.bottom li a {
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  font-size: 13px;
+  color: #777;
+  padding: 14px 16px;
+}
+
+.bottom li a:hover {
+  text-decoration: underline;
+}
+
+.right {
+  margin-right: 3px;
+  text-align: right;
+    display: block;
+    text-decoration: none;
+    font-size: 20px
+    colour: #777;
+    padding: 14px 16px;
+    font-family: "Arial", sans-serif;
+}
